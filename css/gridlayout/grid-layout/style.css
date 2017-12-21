@@ -1,0 +1,19 @@
+p{
+	font-family: 'Roboto', sans-serif;
+	font-size: 3em;
+	letter-spacing: .01em;
+	text-transform: uppercase;
+	margin: 1.66%;
+}
+
+img{
+	width: 30%;
+	float: left;
+	max-height: 180px;
+	margin: 1.66%;
+}
+
+hr{
+	width: 30%;
+	margin-left: 1.66%;
+}
